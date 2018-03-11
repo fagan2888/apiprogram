@@ -1,0 +1,20 @@
+entries:
+- title: test
+  product: API Support Team
+  folders:
+  - title: Bibliography
+    output: web, pdf
+    folderitems:
+
+    - title: Bibliography Information
+      url: /apisupportteam_bibapi.html
+      output: web, pdf
+
+
+  - title: Cluster Job Runner
+    output: web, pdf
+    folderitems:
+
+    - title: CJR Information
+      url: /apisupportteam_cjr.html
+      output: web, pdf
