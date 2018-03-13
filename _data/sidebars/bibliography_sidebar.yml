@@ -1,0 +1,20 @@
+entries:
+- title: Bibliography API
+  product: Bibliography
+  folders:
+  - title: Usage Information
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /bibliography_intro.html
+      output: web, pdf
+
+
+  - title: Developer Information
+    output: web, pdf
+    folderitems:
+
+    - title: Sample Developer Page
+      url: /bibliography_sample.html
+      output: web, pdf

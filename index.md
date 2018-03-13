@@ -1,24 +1,19 @@
 ---
-title: "Getting started with IPUMS API's"
-keywords: API Support Team Homepage
-sidebar: apisupportteam_sidebar
+title: "IPUMS API Program"
+keywords:
+hide_sidebar: true
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary:
 ---
 
+## Using this Site
 
-## Build the Theme
+The Products dropdown in the top navigation bar includes links to all of our API documentation subsites.
 
-Follow these instructions to build the theme.
+## Getting Started with IPUMS APIs
 
-### 1. Download the theme
+Click here for a general introduction to the IPUMS API Program.
 
-First download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
+## How to Get Help
 
-### 2. Install Jekyll
-
-If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
-
-* [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
-* [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
-
+Stuck? Here's how to get in touch with us!  

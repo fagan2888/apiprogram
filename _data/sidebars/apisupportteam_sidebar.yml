@@ -1,20 +1,20 @@
 entries:
-- title: test
-  product: API Support Team
+- title: API Program Support
+  product: API Program Support
   folders:
-  - title: Bibliography
+  - title: Basic Information
     output: web, pdf
     folderitems:
 
-    - title: Bibliography Information
-      url: /apisupportteam_bibapi.html
+    - title: Meet the Team
+      url: /apisupportteam_meettheteam.html
       output: web, pdf
 
 
-  - title: Cluster Job Runner
+  - title: Presentation Materials
     output: web, pdf
     folderitems:
 
-    - title: CJR Information
-      url: /apisupportteam_cjr.html
+    - title: API 101
+      url: /apisupportteam_api101.html
       output: web, pdf
