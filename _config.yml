@@ -3,7 +3,7 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: API Support Team Home
 # this appears on the top navigation bar next to the home button
 
 site_title: Jekyll theme for documentation
@@ -112,4 +112,4 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 # needed for sitemap.xml file only
 url: http://idratherbewriting.com
-baseurl: /documentation-theme-jekyll
+baseurl:
