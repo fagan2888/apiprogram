@@ -1,0 +1,35 @@
+entries:
+- title: API Styleguide
+  product: API Styleguide
+  folders:
+  - title: Sections
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /styleguide_intro.html
+      output: web, pdf
+
+    - title: Tyk API Gateway
+      url: /styleguide_gateway.html
+      output: web, pdf
+
+    - title: Authentication
+      url: /styleguide_auth.html
+      output: web, pdf
+
+    - title: Versioning
+      url: /styleguide_versioning.html
+      output: web, pdf
+
+    - title: Error Handling
+      url: /styleguide_errors.html
+      output: web, pdf
+
+    - title: Documenting APIs
+      url: /styleguide_documenting.html
+      output: web, pdf
+
+    - title: Security & Data Privacy
+      url: /styleguide_security.html
+      output: web, pdf
