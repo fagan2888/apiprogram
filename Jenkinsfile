@@ -7,6 +7,6 @@ node {
 					sh 'bundle exec jekyll build '
 				}
 				sh 'ls'
-				sh 'ls/_site'
+				sh 'ls _site'
     }
 }
