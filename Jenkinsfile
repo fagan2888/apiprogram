@@ -9,7 +9,7 @@ node {
 				sh 'ls'
 				sh 'ls _site'
 				withCredentials([sshUserPrivateKey(credentialsId: 'railsmpc', keyFileVariable: 'SSH_KEYFILE', passphraseVariable: '', usernameVariable: '')]) {
-					sh 'rsync -avz -e "ssh -i $SSH_KEYFILE -o StrictHostKeyChecking=no" ./_site railsmpc@apiprogram.ipums.org:/web/apiprogram.ipums.org/'
+					sh 'rsync -avz -e "ssh -i $SSH_KEYFILE -o StrictHostKeyChecking=no" ./_site/* railsmpc@apiprogram.ipums.org:/web/apiprogram.ipums.org/'
 				}
     }
 }
